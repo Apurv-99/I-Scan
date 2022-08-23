@@ -10,15 +10,15 @@ Iscan uses Google's ML Kit for Barcode scanning, Face recognition, Text recognit
 
 ## Splash Screen, Login, Registration
 
-<img src="Images/UI_1.jpeg" width=200>    <img src="Images/UI_2.jpeg" width=200>    <img src="images/signup.jpeg" width=217>
+<img src="Images/UI_1.jpeg" width=200>    <img src="Images/UI_2.jpeg" width=200>    <img src="Images/Splash.jpeg" width=217>
 
-## Home Screen, Text Recognition, Face Detection
+## Text Recognition, Face Detection
 
-<img src="images/homescreen.jpeg" width=200>    <img src="images/textrecognition.jpeg" width=200>    <img src="images/facedetection.jpeg" width=200>
+<img src="Images/face.jpeg" width=200>    <img src="images/face_2.jpeg" width=200>    <img src="images/Text.jpeg" width=200>
 
 ## Image Labelling, BarCode/QrCode Scanner
 
-<img src="images/imagelabelling.jpeg" width=200>    <img src="images/barcode.jpeg" width=200>    <img src="images/qrcode.jpeg" width=200>
+<img src="Images/QR_Code.jpeg" width=200>    <img src="Images/Label.jpeg" width=200>    
 
 ## 🔥 Features
  - It uses Google's ML Kit to scan images
