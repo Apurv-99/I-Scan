@@ -14,7 +14,7 @@ Iscan uses Google's ML Kit for Barcode scanning, Face recognition, Text recognit
 
 ## Text Recognition, Face Detection
 
-<img src="Images/face.jpeg" width=200>    <img src="images/face_2.jpeg" width=200>    <img src="images/Text.jpeg" width=200>
+<img src="Images/Face.jpeg" width=200>    <img src="Images/face_2.jpeg" width=200>    <img src="Images/Text.jpeg" width=200>
 
 ## Image Labelling, BarCode/QrCode Scanner
 
